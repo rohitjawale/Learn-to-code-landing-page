@@ -34,7 +34,7 @@ svg:hover  #names {
     }
 }
 #headerid   {
-	font-family: product sans;
+	font-family: Product sans;
 	letter-spacing: 1px;
 	font-size:2em;
 	color:#fff;
@@ -45,7 +45,7 @@ svg:hover  #names {
 }
 /*paragraph*/
 #para p {
-	font-family: product sans;
+	font-family: Product sans;
 	letter-spacing: 0.25px;
 	font-size:16px;
 	line-height:20px;
@@ -60,7 +60,7 @@ svg:hover  #names {
 }
 
 .button {
-    font-family:product sans;
+    font-family:Product sans;
     background-color: #00cc7a; /* Green */
     border: none;
     border-radius:30px;
